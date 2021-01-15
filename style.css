@@ -1,0 +1,155 @@
+#navbarNav{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    color: #3C3C3C;
+}
+
+.logo{
+width: 291.11px;
+height: 39.27px;
+left: 135px;
+top: 39px;
+}
+
+.shoes-image{
+    width: 407px;
+    height: auto;
+    
+
+}
+.font{
+    font-size: 80px;
+    font-family: "Bebas Neue";
+    color: #FA804C;
+    line-height: 80px;
+    
+}
+span{
+    color: #363958;
+}
+.color-header{
+    background-color: #FFF9F4;
+    height: auto;
+   
+}
+.btn{
+    background-color: #3D4FF3;
+    color:#FFFFFF;
+    width: 170px;
+    height: 60px;
+    left: 320px;
+    top: 1310px;
+    text-align: center;
+    line-height: 24px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    border-radius: 12px;
+
+}
+.boder-style{
+width: 370px;
+height: 550px;
+background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+border-radius: 20px;
+border: 0;
+}
+.image-border{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 80%;
+    background: #F1F1F1;
+    border-radius: 20px;
+    
+}
+
+.footer-boder{
+    
+    background-color: #FFFFFF;
+    border: 0;
+}
+.boder-change{
+    border: 0;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+.font-card{
+font-family: Roboto;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #363958;
+margin-left: 50px; 
+margin-top: 20px;
+}
+#every{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+margin-left: 50px; 
+margin-top: 18px;
+color: #3E3E3E;
+}
+.set{
+    width: 78px; 
+    height: 82px; 
+    margin-top: 20px;
+
+}
+
+.change-boder{
+margin-top: 10px;
+border: 0;
+background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+border-radius: 20px;
+}
+.xmltd{
+    width: 100%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 15%;
+}
+
+.casual-shoes{
+font-family: Bebas Neue;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+color: #363958;
+}
+.nike-shoe{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+color: #363958;
+}
+.loremm{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #3E3E3E;
+
+}
+.price{
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #FA804C;
+
+}
